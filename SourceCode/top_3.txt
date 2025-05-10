@@ -1,0 +1,876 @@
+----------- Thống kê: MP -----------
+Top 3 CAO NHẤT theo MP:
+        Player           Squad  MP
+    Alex Iwobi          Fulham  35
+Anthony Elanga Nott'ham Forest  35
+    Bernd Leno          Fulham  35
+Top 3 THẤP NHẤT theo MP:
+        Player          Squad  MP
+Altay Bayındır Manchester Utd   2
+  Ayden Heaven Manchester Utd   2
+ Billy Gilmour       Brighton   2
+
+----------- Thống kê: Starts -----------
+Top 3 CAO NHẤT theo Starts:
+         Player         Squad  Starts
+     Bernd Leno        Fulham      35
+Bruno Guimarães Newcastle Utd      35
+   Bryan Mbeumo     Brentford      35
+Top 3 THẤP NHẤT theo Starts:
+       Player          Squad  Starts
+Ali Al Hamadi   Ipswich Town       0
+       Antony Manchester Utd       0
+ Ben Chilwell Crystal Palace       0
+
+----------- Thống kê: Min -----------
+Top 3 CAO NHẤT theo Min:
+        Player          Squad  Min
+    Bernd Leno         Fulham 3150
+    David Raya        Arsenal 3150
+Dean Henderson Crystal Palace 3150
+Top 3 THẤP NHẤT theo Min:
+              Player           Squad  Min
+        Ayden Heaven  Manchester Utd   95
+Jahmai Simpson-Pusey Manchester City   96
+       Billy Gilmour        Brighton   98
+
+----------- Thống kê: Gls -----------
+Top 3 CAO NHẤT theo Gls:
+        Player           Squad  Gls
+ Mohamed Salah       Liverpool   28
+Alexander Isak   Newcastle Utd   23
+Erling Haaland Manchester City   21
+Top 3 THẤP NHẤT theo Gls:
+            Player           Squad  Gls
+   Aaron Cresswell        West Ham    0
+    Aaron Ramsdale     Southampton    0
+Abdukodir Khusanov Manchester City    0
+
+----------- Thống kê: Ast -----------
+Top 3 CAO NHẤT theo Ast:
+          Player         Squad  Ast
+   Mohamed Salah     Liverpool   18
+    Jacob Murphy Newcastle Utd   11
+Antonee Robinson        Fulham   10
+Top 3 THẤP NHẤT theo Ast:
+            Player           Squad  Ast
+   Aaron Cresswell        West Ham    0
+    Aaron Ramsdale     Southampton    0
+Abdukodir Khusanov Manchester City    0
+
+----------- Thống kê: CrdY -----------
+Top 3 CAO NHẤT theo CrdY:
+            Player           Squad  CrdY
+        Saša Lukić          Fulham    12
+Morgan Gibbs-White Nott'ham Forest    11
+       Will Hughes  Crystal Palace    11
+Top 3 THẤP NHẤT theo CrdY:
+               Player          Squad  CrdY
+Abdul Fatawu Issahaku Leicester City     0
+         Adam Webster       Brighton     0
+      Albert Grønbaek    Southampton     0
+
+----------- Thống kê: CrdR -----------
+Top 3 CAO NHẤT theo CrdR:
+            Player          Squad  CrdR
+   Bruno Fernandes Manchester Utd     2
+     Jack Stephens    Southampton     2
+Myles Lewis-Skelly        Arsenal     2
+Top 3 THẤP NHẤT theo CrdR:
+           Player       Squad  CrdR
+  Aaron Cresswell    West Ham     0
+   Aaron Ramsdale Southampton     0
+Aaron Wan-Bissaka    West Ham     0
+
+----------- Thống kê: xG -----------
+Top 3 CAO NHẤT theo xG:
+        Player           Squad   xG
+ Mohamed Salah       Liverpool 24.0
+Erling Haaland Manchester City 20.8
+Alexander Isak   Newcastle Utd 19.9
+Top 3 THẤP NHẤT theo xG:
+            Player           Squad  xG
+    Aaron Ramsdale     Southampton 0.0
+Abdukodir Khusanov Manchester City 0.0
+      Adam Webster        Brighton 0.0
+
+----------- Thống kê: xAG -----------
+Top 3 CAO NHẤT theo xAG:
+       Player     Squad  xAG
+Mohamed Salah Liverpool 13.2
+  Cole Palmer   Chelsea 10.0
+Son Heung-min Tottenham  8.2
+Top 3 THẤP NHẤT theo xAG:
+         Player       Squad  xAG
+ Aaron Ramsdale Southampton  0.0
+Albert Grønbaek Southampton  0.0
+  Alex McCarthy Southampton  0.0
+
+----------- Thống kê: PrgC -----------
+Top 3 CAO NHẤT theo PrgC:
+       Player           Squad  PrgC
+  Jeremy Doku Manchester City   189
+Mohamed Salah       Liverpool   143
+ Noni Madueke         Chelsea   142
+Top 3 THẤP NHẤT theo PrgC:
+        Player        Squad  PrgC
+Aaron Ramsdale  Southampton     0
+ Alex McCarthy  Southampton     0
+   Alex Palmer Ipswich Town     0
+
+----------- Thống kê: PrgP -----------
+Top 3 CAO NHẤT theo PrgP:
+         Player           Squad  PrgP
+Bruno Fernandes  Manchester Utd   281
+ Joško Gvardiol Manchester City   251
+Bruno Guimarães   Newcastle Utd   247
+Top 3 THẤP NHẤT theo PrgP:
+        Player       Squad  PrgP
+Aaron Ramsdale Southampton     0
+ Alex McCarthy Southampton     0
+       Alisson   Liverpool     0
+
+----------- Thống kê: PrgR -----------
+Top 3 CAO NHẤT theo PrgR:
+            Player          Squad  PrgR
+     Mohamed Salah      Liverpool   440
+      Bryan Mbeumo      Brentford   319
+Alejandro Garnacho Manchester Utd   281
+Top 3 THẤP NHẤT theo PrgR:
+        Player        Squad  PrgR
+Aaron Ramsdale  Southampton     0
+ Alex McCarthy  Southampton     0
+   Alex Palmer Ipswich Town     0
+
+----------- Thống kê: Gls.1 -----------
+Top 3 CAO NHẤT theo Gls.1:
+       Player           Squad  Gls.1
+  Jáder Durán     Aston Villa   0.99
+Donyell Malen     Aston Villa   0.92
+ James Mcatee Manchester City   0.89
+Top 3 THẤP NHẤT theo Gls.1:
+            Player           Squad  Gls.1
+   Aaron Cresswell        West Ham    0.0
+    Aaron Ramsdale     Southampton    0.0
+Abdukodir Khusanov Manchester City    0.0
+
+----------- Thống kê: Ast.1 -----------
+Top 3 CAO NHẤT theo Ast.1:
+        Player    Squad  Ast.1
+Tyrique George  Chelsea   0.87
+    Danny Ings West Ham   0.63
+   Bukayo Saka  Arsenal   0.58
+Top 3 THẤP NHẤT theo Ast.1:
+            Player           Squad  Ast.1
+   Aaron Cresswell        West Ham    0.0
+    Aaron Ramsdale     Southampton    0.0
+Abdukodir Khusanov Manchester City    0.0
+
+----------- Thống kê: xG.1 -----------
+Top 3 CAO NHẤT theo xG.1:
+        Player           Squad  xG.1
+  James Mcatee Manchester City  0.83
+Erling Haaland Manchester City  0.76
+    Danny Ings        West Ham  0.72
+Top 3 THẤP NHẤT theo xG.1:
+            Player           Squad  xG.1
+    Aaron Ramsdale     Southampton   0.0
+Abdukodir Khusanov Manchester City   0.0
+      Adam Webster        Brighton   0.0
+
+----------- Thống kê: xAG.1 -----------
+Top 3 CAO NHẤT theo xAG.1:
+         Player       Squad  xAG.1
+ Tyrique George     Chelsea   0.63
+Mykhailo Mudryk     Chelsea   0.58
+Luis Sinisterra Bournemouth   0.54
+Top 3 THẤP NHẤT theo xAG.1:
+        Player        Squad  xAG.1
+Aaron Ramsdale  Southampton    0.0
+ Alex McCarthy  Southampton    0.0
+   Alex Palmer Ipswich Town    0.0
+
+----------- Thống kê: GA90 -----------
+Top 3 CAO NHẤT theo GA90:
+          Player          Squad  GA90
+  Altay Bayındır Manchester Utd  4.00
+      Danny Ward Leicester City  4.00
+Christian Walton   Ipswich Town  2.67
+Top 3 THẤP NHẤT theo GA90:
+      Player     Squad  GA90
+Jason Steele  Brighton  0.50
+  David Raya   Arsenal  0.89
+     Alisson Liverpool  0.92
+
+----------- Thống kê: Save% -----------
+Top 3 CAO NHẤT theo Save%:
+        Player       Squad  Save%
+          Neto Bournemouth   84.6
+  Mark Travers Bournemouth   80.0
+Robert Sánchez     Chelsea   76.3
+Top 3 THẤP NHẤT theo Save%:
+                 Player          Squad  Save%
+         Altay Bayındır Manchester Utd   33.3
+             Danny Ward Leicester City   40.0
+Hákon Rafn Valdimarsson      Brentford   50.0
+
+----------- Thống kê: CS% -----------
+Top 3 CAO NHẤT theo CS%:
+                 Player       Squad   CS%
+Hákon Rafn Valdimarsson   Brentford 100.0
+            Robin Olsen Aston Villa 100.0
+           Jason Steele    Brighton  50.0
+Top 3 THẤP NHẤT theo CS%:
+        Player          Squad  CS%
+ Alex McCarthy    Southampton  0.0
+   Alex Palmer   Ipswich Town  0.0
+Altay Bayındır Manchester Utd  0.0
+
+----------- Thống kê: PKsv -----------
+Top 3 CAO NHẤT theo PKsv:
+         Player       Squad  PKsv
+ Aaron Ramsdale Southampton   2.0
+Jordan Pickford     Everton   2.0
+        José Sá      Wolves   2.0
+Top 3 THẤP NHẤT theo PKsv:
+       Player        Squad  PKsv
+Alex McCarthy  Southampton   0.0
+  Alex Palmer Ipswich Town   0.0
+      Alisson    Liverpool   0.0
+
+----------- Thống kê: SoT% -----------
+Top 3 CAO NHẤT theo SoT%:
+      Player          Squad  SoT%
+Adam Webster       Brighton 100.0
+ Archie Gray      Tottenham 100.0
+ Conor Coady Leicester City 100.0
+Top 3 THẤP NHẤT theo SoT%:
+            Player           Squad  SoT%
+   Aaron Cresswell        West Ham   0.0
+Abdukodir Khusanov Manchester City   0.0
+      Adam Lallana     Southampton   0.0
+
+----------- Thống kê: SoT/90 -----------
+Top 3 CAO NHẤT theo SoT/90:
+         Player       Squad  SoT/90
+   Julio Enciso    Brighton    3.37
+  Donyell Malen Aston Villa    2.76
+Luis Sinisterra Bournemouth    2.29
+Top 3 THẤP NHẤT theo SoT/90:
+            Player           Squad  SoT/90
+   Aaron Cresswell        West Ham     0.0
+    Aaron Ramsdale     Southampton     0.0
+Abdukodir Khusanov Manchester City     0.0
+
+----------- Thống kê: G/Sh -----------
+Top 3 CAO NHẤT theo G/Sh:
+            Player           Squad  G/Sh
+       John Stones Manchester City   1.0
+       Axel Disasi         Chelsea   0.5
+Myles Lewis-Skelly         Arsenal   0.5
+Top 3 THẤP NHẤT theo G/Sh:
+               Player           Squad  G/Sh
+      Aaron Cresswell        West Ham   0.0
+   Abdukodir Khusanov Manchester City   0.0
+Abdul Fatawu Issahaku  Leicester City   0.0
+
+----------- Thống kê: Dist -----------
+Top 3 CAO NHẤT theo Dist:
+          Player           Squad  Dist
+ Ibrahim Sangaré Nott'ham Forest  32.0
+Emmanuel Agbadou          Wolves  31.8
+     Ryan Fraser     Southampton  31.6
+Top 3 THẤP NHẤT theo Dist:
+        Player           Squad  Dist
+Kieran Tierney         Arsenal   2.6
+  Harry Clarke    Ipswich Town   4.5
+   John Stones Manchester City   5.1
+
+----------- Thống kê: Cmp -----------
+Top 3 CAO NHẤT theo Cmp:
+         Player           Squad  Cmp
+Virgil van Dijk       Liverpool 2543
+ Joško Gvardiol Manchester City 2321
+ William Saliba         Arsenal 2320
+Top 3 THẤP NHẤT theo Cmp:
+         Player          Squad  Cmp
+  William Osula  Newcastle Utd   11
+Albert Grønbaek    Southampton   13
+Odsonne Édouard Crystal Palace   17
+
+----------- Thống kê: Cmp% -----------
+Top 3 CAO NHẤT theo Cmp%:
+        Player           Squad  Cmp%
+William Saliba         Arsenal  94.2
+ Manuel Akanji Manchester City  93.9
+    Nathan Aké Manchester City  93.9
+Top 3 THẤP NHẤT theo Cmp%:
+        Player           Squad  Cmp%
+     Matz Sels Nott'ham Forest  51.1
+Altay Bayındır  Manchester Utd  55.5
+  George Hirst    Ipswich Town  55.8
+
+----------- Thống kê: TotDist -----------
+Top 3 CAO NHẤT theo TotDist:
+         Player     Squad  TotDist
+Virgil van Dijk Liverpool    46352
+   Levi Colwill   Chelsea    40277
+ William Saliba   Arsenal    39927
+Top 3 THẤP NHẤT theo TotDist:
+         Player          Squad  TotDist
+  William Osula  Newcastle Utd      126
+Albert Grønbaek    Southampton      135
+Odsonne Édouard Crystal Palace      230
+
+----------- Thống kê: Cmp%.1 -----------
+Top 3 CAO NHẤT theo Cmp%.1:
+        Player          Squad  Cmp%.1
+Altay Bayındır Manchester Utd   100.0
+Antonín Kinský      Tottenham   100.0
+Arijanet Muric   Ipswich Town   100.0
+Top 3 THẤP NHẤT theo Cmp%.1:
+       Player         Squad  Cmp%.1
+William Osula Newcastle Utd    61.5
+ Paul Onuachu   Southampton    62.9
+ George Hirst  Ipswich Town    66.7
+
+----------- Thống kê: Cmp%.2 -----------
+Top 3 CAO NHẤT theo Cmp%.2:
+           Player          Squad  Cmp%.2
+      Alex Palmer   Ipswich Town   100.0
+Caoimhín Kelleher      Liverpool   100.0
+       Danny Ward Leicester City   100.0
+Top 3 THẤP NHẤT theo Cmp%.2:
+         Player        Squad  Cmp%.2
+Albert Grønbaek  Southampton    50.0
+           Beto      Everton    50.0
+   George Hirst Ipswich Town    50.0
+
+----------- Thống kê: Cmp%.3 -----------
+Top 3 CAO NHẤT theo Cmp%.3:
+          Player          Squad  Cmp%.3
+     Andy Irving       West Ham   100.0
+          Antony Manchester Utd   100.0
+Chiedozie Ogbene   Ipswich Town   100.0
+Top 3 THẤP NHẤT theo Cmp%.3:
+        Player       Squad  Cmp%.3
+     Enes Ünal Bournemouth     0.0
+  Ross Stewart Southampton     0.0
+Tyrique George     Chelsea     0.0
+
+----------- Thống kê: KP -----------
+Top 3 CAO NHẤT theo KP:
+         Player          Squad  KP
+Bruno Fernandes Manchester Utd  84
+    Cole Palmer        Chelsea  82
+  Mohamed Salah      Liverpool  82
+Top 3 THẤP NHẤT theo KP:
+         Player       Squad  KP
+ Aaron Ramsdale Southampton   0
+  Alex McCarthy Southampton   0
+Alphonse Areola    West Ham   0
+
+----------- Thống kê: 1/3 -----------
+Top 3 CAO NHẤT theo 1/3:
+         Player           Squad  1/3
+Virgil van Dijk       Liverpool  269
+ Joško Gvardiol Manchester City  237
+Youri Tielemans     Aston Villa  228
+Top 3 THẤP NHẤT theo 1/3:
+          Player        Squad  1/3
+   Ali Al Hamadi Ipswich Town    0
+Chiedozie Ogbene Ipswich Town    0
+    Jason Steele     Brighton    0
+
+----------- Thống kê: PPA -----------
+Top 3 CAO NHẤT theo PPA:
+         Player     Squad  PPA
+  Mohamed Salah Liverpool   86
+Martin Ødegaard   Arsenal   81
+     Alex Iwobi    Fulham   78
+Top 3 THẤP NHẤT theo PPA:
+            Player           Squad  PPA
+Abdukodir Khusanov Manchester City    0
+   Albert Grønbaek     Southampton    0
+     Alex McCarthy     Southampton    0
+
+----------- Thống kê: CrsPA -----------
+Top 3 CAO NHẤT theo CrsPA:
+          Player       Squad  CrsPA
+Antonee Robinson      Fulham     28
+     Pedro Porro   Tottenham     26
+    Milos Kerkez Bournemouth     23
+Top 3 THẤP NHẤT theo CrsPA:
+            Player           Squad  CrsPA
+    Aaron Ramsdale     Southampton      0
+Abdoulaye Doucouré         Everton      0
+Abdukodir Khusanov Manchester City      0
+
+----------- Thống kê: PrgP_Passing -----------
+Top 3 CAO NHẤT theo PrgP_Passing:
+         Player           Squad  PrgP_Passing
+Bruno Fernandes  Manchester Utd           281
+ Joško Gvardiol Manchester City           251
+Bruno Guimarães   Newcastle Utd           247
+Top 3 THẤP NHẤT theo PrgP_Passing:
+        Player       Squad  PrgP_Passing
+Aaron Ramsdale Southampton             0
+ Alex McCarthy Southampton             0
+       Alisson   Liverpool             0
+
+----------- Thống kê: SCA -----------
+Top 3 CAO NHẤT theo SCA:
+         Player          Squad  SCA
+    Cole Palmer        Chelsea  190
+Bruno Fernandes Manchester Utd  169
+  Mohamed Salah      Liverpool  157
+Top 3 THẤP NHẤT theo SCA:
+        Player          Squad  SCA
+ Alex McCarthy    Southampton    0
+Altay Bayındır Manchester Utd    0
+       Ben Mee      Brentford    0
+
+----------- Thống kê: SCA90 -----------
+Top 3 CAO NHẤT theo SCA90:
+         Player           Squad  SCA90
+ Philip Billing     Bournemouth   7.83
+ Luis Guilherme        West Ham   6.52
+Kevin De Bruyne Manchester City   6.08
+Top 3 THẤP NHẤT theo SCA90:
+        Player          Squad  SCA90
+ Alex McCarthy    Southampton    0.0
+Altay Bayındır Manchester Utd    0.0
+       Ben Mee      Brentford    0.0
+
+----------- Thống kê: GCA -----------
+Top 3 CAO NHẤT theo GCA:
+          Player     Squad  GCA
+   Mohamed Salah Liverpool   26
+     Bukayo Saka   Arsenal   22
+Mikkel Damsgaard Brentford   21
+Top 3 THẤP NHẤT theo GCA:
+            Player           Squad  GCA
+   Aaron Cresswell        West Ham    0
+    Aaron Ramsdale     Southampton    0
+Abdukodir Khusanov Manchester City    0
+
+----------- Thống kê: GCA90 -----------
+Top 3 CAO NHẤT theo GCA90:
+     Player          Squad  GCA90
+Bukayo Saka        Arsenal   1.29
+Solly March       Brighton   1.08
+Amad Diallo Manchester Utd   0.93
+Top 3 THẤP NHẤT theo GCA90:
+            Player           Squad  GCA90
+   Aaron Cresswell        West Ham    0.0
+    Aaron Ramsdale     Southampton    0.0
+Abdukodir Khusanov Manchester City    0.0
+
+----------- Thống kê: Tkl -----------
+Top 3 CAO NHẤT theo Tkl:
+            Player          Squad  Tkl
+Idrissa Gana Gueye        Everton  124
+      Daniel Muñoz Crystal Palace  113
+        João Gomes         Wolves  105
+Top 3 THẤP NHẤT theo Tkl:
+        Player        Squad  Tkl
+Aaron Ramsdale  Southampton    0
+ Alex McCarthy  Southampton    0
+   Alex Palmer Ipswich Town    0
+
+----------- Thống kê: TklW -----------
+Top 3 CAO NHẤT theo TklW:
+            Player          Squad  TklW
+      Daniel Muñoz Crystal Palace    74
+Idrissa Gana Gueye        Everton    74
+    Moisés Caicedo        Chelsea    64
+Top 3 THẤP NHẤT theo TklW:
+        Player        Squad  TklW
+Aaron Ramsdale  Southampton     0
+ Alex McCarthy  Southampton     0
+   Alex Palmer Ipswich Town     0
+
+----------- Thống kê: Att_Defensive act -----------
+Top 3 CAO NHẤT theo Att_Defensive act:
+                Player     Squad  Att_Defensive act
+   Alexis Mac Allister Liverpool                104
+Trent Alexander-Arnold Liverpool                103
+            João Gomes    Wolves                102
+Top 3 THẤP NHẤT theo Att_Defensive act:
+       Player        Squad  Att_Defensive act
+Alex McCarthy  Southampton                  0
+  Alex Palmer Ipswich Town                  0
+Armando Broja      Everton                  0
+
+----------- Thống kê: Lost -----------
+Top 3 CAO NHẤT theo Lost:
+                Player           Squad  Lost
+            João Gomes          Wolves    60
+       Elliot Anderson Nott'ham Forest    57
+Trent Alexander-Arnold       Liverpool    55
+Top 3 THẤP NHẤT theo Lost:
+        Player        Squad  Lost
+ Alex McCarthy  Southampton     0
+   Alex Palmer Ipswich Town     0
+Antonín Kinský    Tottenham     0
+
+----------- Thống kê: Blocks -----------
+Top 3 CAO NHẤT theo Blocks:
+         Player           Squad  Blocks
+ Nathan Collins       Brentford      71
+        Murillo Nott'ham Forest      67
+Tyrick Mitchell  Crystal Palace      62
+Top 3 THẤP NHẤT theo Blocks:
+        Player        Squad  Blocks
+Aaron Ramsdale  Southampton       0
+ Alex McCarthy  Southampton       0
+   Alex Palmer Ipswich Town       0
+
+----------- Thống kê: Sh_Defensive act -----------
+Top 3 CAO NHẤT theo Sh_Defensive act:
+        Player           Squad  Sh_Defensive act
+Nathan Collins       Brentford                51
+   Dara O'Shea    Ipswich Town                47
+       Murillo Nott'ham Forest                44
+Top 3 THẤP NHẤT theo Sh_Defensive act:
+               Player          Squad  Sh_Defensive act
+       Aaron Ramsdale    Southampton                 0
+Abdul Fatawu Issahaku Leicester City                 0
+         Adama Traoré         Fulham                 0
+
+----------- Thống kê: Pass -----------
+Top 3 CAO NHẤT theo Pass:
+             Player          Squad  Pass
+Alexis Mac Allister      Liverpool    55
+    Antoine Semenyo    Bournemouth    51
+    Tyrick Mitchell Crystal Palace    50
+Top 3 THẤP NHẤT theo Pass:
+         Player       Squad  Pass
+ Aaron Ramsdale Southampton     0
+Albert Grønbaek Southampton     0
+  Alex McCarthy Southampton     0
+
+----------- Thống kê: Int -----------
+Top 3 CAO NHẤT theo Int:
+           Player     Squad  Int
+Aaron Wan-Bissaka  West Ham   60
+ Antonee Robinson    Fulham   57
+ Ryan Gravenberch Liverpool   57
+Top 3 THẤP NHẤT theo Int:
+         Player        Squad  Int
+Albert Grønbaek  Southampton    0
+  Alex McCarthy  Southampton    0
+    Alex Palmer Ipswich Town    0
+
+----------- Thống kê: Touches -----------
+Top 3 CAO NHẤT theo Touches:
+         Player           Squad  Touches
+Virgil van Dijk       Liverpool     3125
+ Joško Gvardiol Manchester City     2903
+   Levi Colwill         Chelsea     2728
+Top 3 THẤP NHẤT theo Touches:
+             Player          Squad  Touches
+    Albert Grønbaek    Southampton       38
+      William Osula  Newcastle Utd       41
+Chidozie Obi-Martin Manchester Utd       44
+
+----------- Thống kê: Def Pen -----------
+Top 3 CAO NHẤT theo Def Pen:
+         Player     Squad  Def Pen
+   Mark Flekken Brentford     1338
+     Bernd Leno    Fulham     1097
+Bart Verbruggen  Brighton     1034
+Top 3 THẤP NHẤT theo Def Pen:
+       Player         Squad  Def Pen
+  Emi Buendía   Aston Villa        0
+Callum Wilson Newcastle Utd        1
+Evan Ferguson      West Ham        1
+
+----------- Thống kê: Def 3rd_Possession -----------
+Top 3 CAO NHẤT theo Def 3rd_Possession:
+         Player     Squad  Def 3rd_Possession
+   Mark Flekken Brentford                1660
+Jordan Pickford   Everton                1494
+     Bernd Leno    Fulham                1354
+Top 3 THẤP NHẤT theo Def 3rd_Possession:
+         Player          Squad  Def 3rd_Possession
+  William Osula  Newcastle Utd                   2
+Odsonne Édouard Crystal Palace                   4
+  Callum Wilson  Newcastle Utd                   5
+
+----------- Thống kê: Mid 3rd_Possession -----------
+Top 3 CAO NHẤT theo Mid 3rd_Possession:
+         Player           Squad  Mid 3rd_Possession
+Virgil van Dijk       Liverpool                1719
+ William Saliba         Arsenal                1519
+ Joško Gvardiol Manchester City                1474
+Top 3 THẤP NHẤT theo Mid 3rd_Possession:
+        Player          Squad  Mid 3rd_Possession
+ Alex McCarthy    Southampton                   0
+    Danny Ward Leicester City                   0
+Fraser Forster      Tottenham                   0
+
+----------- Thống kê: Att 3rd_Possession -----------
+Top 3 CAO NHẤT theo Att 3rd_Possession:
+         Player          Squad  Att 3rd_Possession
+  Mohamed Salah      Liverpool                1023
+   Bryan Mbeumo      Brentford                 913
+Bruno Fernandes Manchester Utd                 888
+Top 3 THẤP NHẤT theo Att 3rd_Possession:
+        Player        Squad  Att 3rd_Possession
+Aaron Ramsdale  Southampton                   0
+ Alex McCarthy  Southampton                   0
+   Alex Palmer Ipswich Town                   0
+
+----------- Thống kê: Att Pen -----------
+Top 3 CAO NHẤT theo Att Pen:
+         Player         Squad  Att Pen
+  Mohamed Salah     Liverpool      327
+ Alexander Isak Newcastle Utd      178
+Antoine Semenyo   Bournemouth      176
+Top 3 THẤP NHẤT theo Att Pen:
+        Player        Squad  Att Pen
+Aaron Ramsdale  Southampton        0
+ Alex McCarthy  Southampton        0
+   Alex Palmer Ipswich Town        0
+
+----------- Thống kê: Att_Possession -----------
+Top 3 CAO NHẤT theo Att_Possession:
+        Player           Squad  Att_Possession
+Mohammed Kudus        West Ham             194
+   Jeremy Doku Manchester City             185
+ Morgan Rogers     Aston Villa             153
+Top 3 THẤP NHẤT theo Att_Possession:
+        Player        Squad  Att_Possession
+Aaron Ramsdale  Southampton               0
+ Alex McCarthy  Southampton               0
+   Alex Palmer Ipswich Town               0
+
+----------- Thống kê: Succ% -----------
+Top 3 CAO NHẤT theo Succ%:
+     Player     Squad  Succ%
+    Alisson Liverpool  100.0
+Andy Irving  West Ham  100.0
+Axel Disasi   Chelsea  100.0
+Top 3 THẤP NHẤT theo Succ%:
+             Player           Squad  Succ%
+ Abdukodir Khusanov Manchester City    0.0
+    Albert Grønbaek     Southampton    0.0
+Armel Bella Kotchap     Southampton    0.0
+
+----------- Thống kê: Tkld% -----------
+Top 3 CAO NHẤT theo Tkld%:
+             Player           Squad  Tkld%
+ Abdukodir Khusanov Manchester City  100.0
+    Albert Grønbaek     Southampton  100.0
+Armel Bella Kotchap     Southampton  100.0
+Top 3 THẤP NHẤT theo Tkld%:
+     Player     Squad  Tkld%
+    Alisson Liverpool    0.0
+Andy Irving  West Ham    0.0
+Axel Disasi   Chelsea    0.0
+
+----------- Thống kê: Carries -----------
+Top 3 CAO NHẤT theo Carries:
+         Player           Squad  Carries
+ Joško Gvardiol Manchester City     1886
+Virgil van Dijk       Liverpool     1746
+ William Saliba         Arsenal     1675
+Top 3 THẤP NHẤT theo Carries:
+             Player           Squad  Carries
+      Harry Toffolo Nott'ham Forest       17
+    Albert Grønbaek     Southampton       18
+Chidozie Obi-Martin  Manchester Utd       22
+
+----------- Thống kê: PrgDist_Possession -----------
+Top 3 CAO NHẤT theo PrgDist_Possession:
+            Player           Squad  PrgDist_Possession
+Jan Paul van Hecke        Brighton                6740
+    Joško Gvardiol Manchester City                5715
+        Rúben Dias Manchester City                5295
+Top 3 THẤP NHẤT theo PrgDist_Possession:
+         Player           Squad  PrgDist_Possession
+Albert Grønbaek     Southampton                  15
+  Harry Toffolo Nott'ham Forest                  23
+ Massimo Luongo    Ipswich Town                  25
+
+----------- Thống kê: PrgC_Possession -----------
+Top 3 CAO NHẤT theo PrgC_Possession:
+       Player           Squad  PrgC_Possession
+  Jeremy Doku Manchester City              189
+Mohamed Salah       Liverpool              143
+ Noni Madueke         Chelsea              142
+Top 3 THẤP NHẤT theo PrgC_Possession:
+        Player        Squad  PrgC_Possession
+Aaron Ramsdale  Southampton                0
+ Alex McCarthy  Southampton                0
+   Alex Palmer Ipswich Town                0
+
+----------- Thống kê: 1/3_Possession -----------
+Top 3 CAO NHẤT theo 1/3_Possession:
+        Player           Squad  1/3_Possession
+    Alex Iwobi          Fulham             102
+Joško Gvardiol Manchester City              92
+   Jeremy Doku Manchester City              88
+Top 3 THẤP NHẤT theo 1/3_Possession:
+         Player       Squad  1/3_Possession
+ Aaron Ramsdale Southampton               0
+Albert Grønbaek Southampton               0
+  Alex McCarthy Southampton               0
+
+----------- Thống kê: CPA -----------
+Top 3 CAO NHẤT theo CPA:
+       Player           Squad  CPA
+Mohamed Salah       Liverpool  115
+  Jeremy Doku Manchester City   90
+ Noni Madueke         Chelsea   87
+Top 3 THẤP NHẤT theo CPA:
+            Player           Squad  CPA
+   Aaron Cresswell        West Ham    0
+    Aaron Ramsdale     Southampton    0
+Abdukodir Khusanov Manchester City    0
+
+----------- Thống kê: Mis -----------
+Top 3 CAO NHẤT theo Mis:
+       Player       Squad  Mis
+Mohamed Salah   Liverpool  109
+Morgan Rogers Aston Villa  104
+ Bryan Mbeumo   Brentford   99
+Top 3 THẤP NHẤT theo Mis:
+         Player          Squad  Mis
+  Alex McCarthy    Southampton    0
+Alphonse Areola       West Ham    0
+ Altay Bayındır Manchester Utd    0
+
+----------- Thống kê: Dis -----------
+Top 3 CAO NHẤT theo Dis:
+          Player         Squad  Dis
+  Mohammed Kudus      West Ham   89
+ Bruno Guimarães Newcastle Utd   73
+Dejan Kulusevski     Tottenham   73
+Top 3 THẤP NHẤT theo Dis:
+         Player       Squad  Dis
+Aaron Cresswell    West Ham    0
+ Aaron Ramsdale Southampton    0
+  Alex McCarthy Southampton    0
+
+----------- Thống kê: Rec -----------
+Top 3 CAO NHẤT theo Rec:
+         Player           Squad  Rec
+Virgil van Dijk       Liverpool 2153
+ Joško Gvardiol Manchester City 2132
+ William Saliba         Arsenal 2056
+Top 3 THẤP NHẤT theo Rec:
+         Player          Squad  Rec
+Albert Grønbaek    Southampton   21
+Odsonne Édouard Crystal Palace   26
+  William Osula  Newcastle Utd   27
+
+----------- Thống kê: PrgR_Possession -----------
+Top 3 CAO NHẤT theo PrgR_Possession:
+            Player          Squad  PrgR_Possession
+     Mohamed Salah      Liverpool              440
+      Bryan Mbeumo      Brentford              319
+Alejandro Garnacho Manchester Utd              281
+Top 3 THẤP NHẤT theo PrgR_Possession:
+        Player        Squad  PrgR_Possession
+Aaron Ramsdale  Southampton                0
+ Alex McCarthy  Southampton                0
+   Alex Palmer Ipswich Town                0
+
+----------- Thống kê: Fls -----------
+Top 3 CAO NHẤT theo Fls:
+         Player        Squad  Fls
+     João Gomes       Wolves   67
+     Liam Delap Ipswich Town   67
+Antoine Semenyo  Bournemouth   66
+Top 3 THẤP NHẤT theo Fls:
+         Player       Squad  Fls
+Albert Grønbaek Southampton    0
+  Alex McCarthy Southampton    0
+        Alisson   Liverpool    0
+
+----------- Thống kê: Fld_Misc -----------
+Top 3 CAO NHẤT theo Fld_Misc:
+         Player         Squad  Fld_Misc
+Bruno Guimarães Newcastle Utd       100
+  Matheus Cunha        Wolves        69
+    John McGinn   Aston Villa        67
+Top 3 THẤP NHẤT theo Fld_Misc:
+         Player          Squad  Fld_Misc
+Alphonse Areola       West Ham         0
+ Altay Bayındır Manchester Utd         0
+  Andrés García    Aston Villa         0
+
+----------- Thống kê: Off -----------
+Top 3 CAO NHẤT theo Off:
+               Player           Squad  Off
+Dominic Calvert-Lewin         Everton   27
+           Chris Wood Nott'ham Forest   26
+          Jamie Vardy  Leicester City   25
+Top 3 THẤP NHẤT theo Off:
+            Player           Squad  Off
+   Aaron Cresswell        West Ham    0
+    Aaron Ramsdale     Southampton    0
+Abdukodir Khusanov Manchester City    0
+
+----------- Thống kê: Crs -----------
+Top 3 CAO NHẤT theo Crs:
+         Player          Squad  Crs
+    Pedro Porro      Tottenham  191
+   Bryan Mbeumo      Brentford  182
+Bruno Fernandes Manchester Utd  172
+Top 3 THẤP NHẤT theo Crs:
+        Player        Squad  Crs
+Aaron Ramsdale  Southampton    0
+ Alex McCarthy  Southampton    0
+   Alex Palmer Ipswich Town    0
+
+----------- Thống kê: Recov -----------
+Top 3 CAO NHẤT theo Recov:
+         Player           Squad  Recov
+ Moisés Caicedo         Chelsea    203
+Elliot Anderson Nott'ham Forest    197
+Bruno Fernandes  Manchester Utd    192
+Top 3 THẤP NHẤT theo Recov:
+        Player          Squad  Recov
+Altay Bayındır Manchester Utd      0
+    Danny Ward Leicester City      1
+Fraser Forster      Tottenham      1
+
+----------- Thống kê: Won -----------
+Top 3 CAO NHẤT theo Won:
+         Player         Squad  Won
+       Dan Burn Newcastle Utd  134
+ Nathan Collins     Brentford  112
+Virgil van Dijk     Liverpool  111
+Top 3 THẤP NHẤT theo Won:
+       Player          Squad  Won
+Andrés García    Aston Villa    0
+       Antony Manchester Utd    0
+Billy Gilmour       Brighton    0
+
+----------- Thống kê: Lost_Misc -----------
+Top 3 CAO NHẤT theo Lost_Misc:
+              Player           Squad  Lost_Misc
+          Chris Wood Nott'ham Forest        129
+Jean-Philippe Mateta  Crystal Palace         99
+Jørgen Strand Larsen          Wolves         96
+Top 3 THẤP NHẤT theo Lost_Misc:
+         Player       Squad  Lost_Misc
+ Aaron Ramsdale Southampton          0
+Albert Grønbaek Southampton          0
+  Alex McCarthy Southampton          0
+
+----------- Thống kê: Won% -----------
+Top 3 CAO NHẤT theo Won%:
+         Player       Squad  Won%
+ Aaron Ramsdale Southampton 100.0
+Albert Grønbaek Southampton 100.0
+  Alex McCarthy Southampton 100.0
+Top 3 THẤP NHẤT theo Won%:
+       Player          Squad  Won%
+Andrés García    Aston Villa   0.0
+       Antony Manchester Utd   0.0
+  Emi Buendía    Aston Villa   0.0
+
